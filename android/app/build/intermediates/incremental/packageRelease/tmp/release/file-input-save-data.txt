@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jun 10 16:15:07 BRT 2019
+#Mon Jun 10 18:16:46 BRT 2019
 60.set=ASSET
 52.set=NATIVE_RESOURCE
 53.base=C\:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0

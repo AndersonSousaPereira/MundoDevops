@@ -63,13 +63,13 @@ INJECTED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\debu
 	xmlns:android
 		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:4:3-65
 	android:name
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:4:20-62
 application
-ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:6:5-24:19
+ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:6:3-24:17
+MERGED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:6:3-24:17
+MERGED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:6:3-24:17
 MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Anderson\.gradle\caches\transforms-2\files-2.1\1657e8826e5598d9d5d9e6abe8335d79\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Anderson\.gradle\caches\transforms-2\files-2.1\1657e8826e5598d9d5d9e6abe8335d79\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Anderson\.gradle\caches\transforms-2\files-2.1\caf8d632d806f678fc1439bc9377bade\AndroidManifest.xml:22:5-94
@@ -81,53 +81,53 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Anderson\.gradle\cac
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Anderson\.gradle\caches\transforms-2\files-2.1\caf8d632d806f678fc1439bc9377bade\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:8:7-39
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:8:3-35
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:8:3-35
 	tools:ignore
 		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\debug\AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:10:7-52
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:10:3-42
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:10:3-42
 	tools:targetApi
 		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\debug\AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:9:7-41
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:9:3-37
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:9:3-37
 	android:allowBackup
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:11:7-34
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:11:3-30
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:11:3-30
 	android:theme
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:12:7-38
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:12:3-34
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:12:3-34
 	android:usesCleartextTraffic
 		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\debug\AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:7:7-38
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:7:3-34
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:7:3-34
 activity#com.mundo_devops.MainActivity
-ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:13:7-22:18
+ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:13:3-22:14
 	android:label
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:15:5-37
 	android:windowSoftInputMode
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:17:9-51
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:17:5-47
 	android:configChanges
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:16:9-79
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:16:5-75
 	android:name
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:14:5-33
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:18:9-21:25
+ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:18:5-21:21
 action#android.intent.action.MAIN
-ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:19:13-65
+ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:19:5-57
 	android:name
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:19:21-62
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:19:13-54
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:20:13-73
+ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:20:5-65
 	android:name
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:20:23-70
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:20:15-62
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:23:7-84
+ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:23:3-80
 	android:name
-		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:23:17-81
+		ADDED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml:23:13-77
 uses-sdk
 INJECTED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Anderson\Desktop\Testes\Mundo_Devops\android\app\src\main\AndroidManifest.xml
