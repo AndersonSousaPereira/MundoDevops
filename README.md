@@ -18,10 +18,10 @@
 
 ### Pré-requisitos
 
-1. Baixe no celular o apk contido na pasta apk localizado na raiz do projeto
+1. Baixe no celular o apk contido na pasta "./apk" localizado na raiz do projeto
 
 ### Instalação
-1. Inicie a instalação apertando sobre o arquivo baixado e "INSTALAR"
+1. Inicie a instalação apertando sobre o arquivo baixado e logo em seguida no botão "INSTALAR"
 2. Caso uma mensagem referente ao Play Protect seja gerada prossiga acionando o botão "INSTALAR ASSIM MESMO"
 
 
