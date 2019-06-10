@@ -41,4 +41,6 @@
 3. Rode o comando "npm install"
 3. Rode o comando "react-native run-ios"
 
+## Observação
 
+O seguinte aplicativo foi criado, desenvolvido e testado em um celular cujo sistema operacional é o Android. Qualquer incosistencia ou erro deve-se ao fato de não haver ambiente adequado para a configuração do mesmo, sendo que para tal seria necessária a existência de um Macbook e IPhone.
