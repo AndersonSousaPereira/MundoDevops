@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import {Router, Scene, Stack} from 'react-native-router-flux';
-import Login from '../telas/login';
+import {Router, Scene} from 'react-native-router-flux';
+import Inicio from '../telas/inicio';
 
 export default class Content extends Component{
 	constructor(props){
@@ -11,7 +11,7 @@ export default class Content extends Component{
 		return (
 			<Router>
 				<Scene key="root"  hideNavBar={true}>
-					<Scene key="Login" component={Login} initial/>
+					<Scene key="Inicio" component={Inicio} initial/>
 				</Scene>
 			</Router>
 		);

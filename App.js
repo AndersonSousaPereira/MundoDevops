@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { StyleSheet,View, ScrollView} from 'react-native';
-import store from './assets/store';
-import {Provider} from 'react-redux';
 import Content from './assets/components/content';
 
 export default class App extends Component {
@@ -11,11 +9,9 @@ export default class App extends Component {
 
 	render() {
 		return (
-			<Provider store={store}>
-				<View style={styles.root}>
-					<Content></Content>
-				</View>
-			</Provider>
+			<View style={styles.root}>
+			<Content></Content>
+			</View>
 		);
 	}
 }

@@ -608,7 +608,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable assets_img_correct
 drawable assets_img_cycling
-drawable assets_img_gym
+drawable assets_img_gym2
 drawable assets_img_ic_balance
 drawable assets_img_ic_bike
 drawable assets_img_ic_dance

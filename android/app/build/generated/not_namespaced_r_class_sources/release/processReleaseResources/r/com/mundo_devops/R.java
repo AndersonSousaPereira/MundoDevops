@@ -2670,7 +2670,7 @@ public final class R {
     public static final int abc_vector_test=0x7f060053;
     public static final int assets_img_correct=0x7f060054;
     public static final int assets_img_cycling=0x7f060055;
-    public static final int assets_img_gym=0x7f060056;
+    public static final int assets_img_gym2=0x7f060056;
     public static final int assets_img_ic_balance=0x7f060057;
     public static final int assets_img_ic_bike=0x7f060058;
     public static final int assets_img_ic_dance=0x7f060059;

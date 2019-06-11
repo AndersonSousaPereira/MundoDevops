@@ -65,6 +65,22 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\values-v17_values-v17.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-2\\files-2.1\\0283226bef708d3a01e36c92ebebf2bc\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1161,1331,1559,1783,2025,2196,2370,2539,2812,3012,3216",
+                        "endLines": "4,8,11,14,17,21,24,28,32,36,39,42,45,49,52,56,60",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1156,1326,1554,1778,2020,2191,2365,2534,2807,3007,3211,3540"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\values-hr_values-hr.arsc.flat",
             "map": [
                 {
@@ -92,22 +108,6 @@
                         "startOffsets": "105,210,307,417,503,607,726,810,893,984,1077,1173,1267,1368,1461,1556,1655,1746,1837,1923,2027,2140,2246,2351,2464,2571,2740,2837",
                         "endColumns": "104,96,109,85,103,118,83,82,90,92,95,93,100,92,94,98,90,90,85,103,112,105,104,112,106,168,96,88",
                         "endOffsets": "205,302,412,498,602,721,805,888,979,1072,1168,1262,1363,1456,1551,1650,1741,1832,1918,2022,2135,2241,2346,2459,2566,2735,2832,2921"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\values-v17_values-v17.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-2\\files-2.1\\0283226bef708d3a01e36c92ebebf2bc\\res\\values-v17\\values-v17.xml",
-                    "from": {
-                        "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,228,456,614,764,936,1161,1331,1559,1783,2025,2196,2370,2539,2812,3012,3216",
-                        "endLines": "4,8,11,14,17,21,24,28,32,36,39,42,45,49,52,56,60",
-                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "223,451,609,759,931,1156,1326,1554,1778,2020,2191,2365,2534,2807,3007,3211,3540"
                     }
                 }
             ]
@@ -433,21 +433,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\values-land_values-land.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-2\\files-2.1\\0283226bef708d3a01e36c92ebebf2bc\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\values-lo_values-lo.arsc.flat",
             "map": [
                 {
@@ -475,6 +460,21 @@
                         "startOffsets": "105,208,305,412,497,602,714,791,869,960,1053,1149,1243,1344,1437,1532,1626,1717,1808,1888,1995,2092,2190,2295,2398,2502,2659,2755",
                         "endColumns": "102,96,106,84,104,111,76,77,90,92,95,93,100,92,94,93,90,90,79,106,96,97,104,102,103,156,95,80",
                         "endOffsets": "203,300,407,492,597,709,786,864,955,1048,1144,1238,1339,1432,1527,1621,1712,1803,1883,1990,2087,2185,2290,2393,2497,2654,2750,2831"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\values-land_values-land.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-2\\files-2.1\\0283226bef708d3a01e36c92ebebf2bc\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]
