@@ -64,7 +64,7 @@ export default class Inicio extends Component{
 				},
 				{
 					name: "Musculação",
-					image: require("../img/gym2.png"),
+					image: require("../img/gym.png"),
 					calories: 950,
 					time: 60,
 					weight: 52,

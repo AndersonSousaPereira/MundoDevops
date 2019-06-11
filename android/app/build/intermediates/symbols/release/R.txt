@@ -607,7 +607,7 @@ int drawable abc_textfield_search_material 0x7f060052
 int drawable abc_vector_test 0x7f060053
 int drawable assets_img_correct 0x7f060054
 int drawable assets_img_cycling 0x7f060055
-int drawable assets_img_gym2 0x7f060056
+int drawable assets_img_gym 0x7f060056
 int drawable assets_img_ic_balance 0x7f060057
 int drawable assets_img_ic_bike 0x7f060058
 int drawable assets_img_ic_dance 0x7f060059

@@ -940,10 +940,6 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-2\\files-2.1\\0283226bef708d3a01e36c92ebebf2bc\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_img_gym2.png.flat",
-        "source": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_img_gym2.png"
-    },
-    {
         "merged": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-2\\files-2.1\\caf8d632d806f678fc1439bc9377bade\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -1398,6 +1394,10 @@
     {
         "merged": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-2\\files-2.1\\0283226bef708d3a01e36c92ebebf2bc\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_img_gym.png.flat",
+        "source": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_img_gym.png"
     },
     {
         "merged": "C:\\Users\\Anderson\\Desktop\\Testes\\Mundo_Devops\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
