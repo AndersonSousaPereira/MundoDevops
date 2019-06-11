@@ -61,4 +61,6 @@ O teste é composto de três componentes, são eles:
 
 O projeto é gerenciado principalmente pelo state do componente inicio, que recebe duas propriedades: filters e exercices. Para suas leituras a função map do JavaScript foi utilizada. Também poderia ser utilizado como alternativa o redux caso houvessem mais telas ou uma estrutura mais complexa de componentes. Como o projeto é baseado em apenas uma tela, e os componentes na mesma não compartilham propriedades, o redux não se fez necessário.  
 
+As imagens dos personagens forma convertidas para vetoriais através do Illustrator, pois apresentavam baixa qualidade quando compiladas. 
+
 *Todos os componentes, imagens e fontes foram inserido na pasta "./assets"
