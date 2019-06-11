@@ -47,7 +47,7 @@ O seguinte aplicativo foi criado, desenvolvido e testado em um celular cujo sist
 
 # Solução
 
-Para a seguinte solução foram inseridos os seguintes plugins: 
+Para a solução foram inseridos os seguintes plugins: 
 
 1. "react-native-linear-gradient": para a inserção de gradiente;
 2. "react-native-vector-icons" para a inserção dos incones de menu e configuração;
