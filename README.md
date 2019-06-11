@@ -51,14 +51,14 @@ Para a solução foram inseridos os seguintes plugins:
 
 1. "react-native-linear-gradient": para a inserção de gradiente;
 2. "react-native-vector-icons" para a inserção dos incones de menu e configuração;
-3. "react-native-router-flux" para a troca de cenas caso no futuro existão mais implementações de telas;
+3. "react-native-router-flux" para a troca de cenas caso no futuro existam mais implementações de telas;
 
 O teste é composto de três componentes, são eles:
 
-1. content: responsável por armazenar todas as possíveis futuras telas e proporcionar a troca das mesmas já que para tal feito é utilizado o plugin "react-native-router-flux";
+1. content: responsável por armazenar todas as possíveis futuras telas e proporcionar a troca das mesmas já que para tal feito é utilizado o plugin "react-native-router-flux" e a utilização da função Actions();
 2. status: resposável por permitir a troca de estilo da StatusBar;
-3. inicio: responsável por conter todos os components referentes a tela de início.
+3. inicio: responsável por conter todos os componentes referentes a tela de início.
 
 O projeto é gerenciado principalmente pelo state do componente inicio, que recebe duas propriedades: filters e exercices. Para suas leituras a função map do JavaScript foi utilizada. Também poderia ser utilizado como alternativa o redux caso houvessem mais telas ou uma estrutura mais complexa de componentes. Como o projeto é baseado em apenas uma tela, e os componentes na mesma não compartilham propriedades, o redux não se fez necessário.  
 
-Todos os componentes, imagens e fontes foram inserido na pasta "./assets"
+*Todos os componentes, imagens e fontes foram inserido na pasta "./assets"
